@@ -1,0 +1,97 @@
+.menu{
+    overflow: hidden;
+    background-color: blanchedalmond;
+    width: 1000%;
+    height: 50px;
+}
+.menu a{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+.root{
+    background: url(loT.jpeg)0 0;
+    padding: 150px;
+    height: 500px;
+}
+h1{
+    color: aquamarine;
+    background-color: antiquewhite;
+    font-size: 40px;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 300%;
+   }
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Pengertian h2{
+    color: aquamarine;
+    font-size: 35px;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 40%;
+}
+.CaraKerja h2{
+    color: aquamarine;
+    font-size: 35px;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 21%; 
+}
+.KeuntunganloT h2{
+    color: aquamarine;
+    font-size: 30px;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 35%;
+}
+.TantanganloT h2{
+    color: aquamarine;
+    font-size: 30px;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 20%;
+}
+.ContohImplementasiloT h2{
+    color: aquamarine;
+    font-size: 30px;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 45%;
+}
+h1{
+    color: aquamarine;
+    background-color: saddlebrown;
+    font-size: 50px;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 150%;
+   }
+   .rot img {
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+
+    .image h1{
+        color: aquamarine;
+        background-color: saddlebrown;
+        font-size: 35px;
+        text-align: center;
+        padding: 1px;
+        position: relative;
+        width: 80%;
+    }
+   }
